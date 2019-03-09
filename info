@@ -1,0 +1,6 @@
+install selenium
+inatall pytest
+install pytest-html
+command : python -m pytest --html=Report/Report1.html\
+
+command for seperate files : python -m pytest --browser=chrome
